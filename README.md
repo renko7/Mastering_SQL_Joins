@@ -1,4 +1,4 @@
-# Mastering_SQL_Joins
+# Mastering_SQL_Joins ( Steps To Download File )
 
 1) Click on the file to open it. On the file's page, you will see a preview of its contents.
 
